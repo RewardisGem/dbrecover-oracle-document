@@ -8,7 +8,7 @@ DBRECOVER for Oracle es un software de recuperación de desastres de datos de Or
 
 DBRECOVER utiliza una interfaz gráfica de usuario intuitiva (GUI), operación simple y conveniente. Los usuarios no necesitan aprender un conjunto adicional de comandos, ni necesitan entender los principios de la estructura de datos subyacente de Oracle, pueden recuperar fácilmente los datos de la base de datos a través del Asistente de Recuperación (Recovery Wizard).
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image1.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image1.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d38e535f-1ddb-4b7c-881a-a226a29f23e8/image1.png
 
 ## ¿Por qué elegir DBRECOVER?
 
@@ -181,7 +181,7 @@ En un entorno Linux, puede usar la interfaz gráfica de usuario local o herramie
 1. Asegúrese de que puede abrir el pequeño programa de reloj gráfico xclock
 2. Ejecute en el directorio de descompresión del software: sh start_dbrecover_linux_local_java.sh
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image2.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image2.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bc3e4f2-cc47-4a1b-9335-56c5934283b5/image2.png
 
 En un entorno AIX/HPUX/Solaris, puede usar la interfaz gráfica de usuario local o herramientas de gráficos remotos como Xmanager/VNC
 
@@ -193,17 +193,17 @@ En un entorno AIX/HPUX/Solaris, puede usar la interfaz gráfica de usuario local
 
 DBRECOVER For Oracle es un software comercial. La versión comunitaria de DBRECOVER está disponible para pruebas y aprendizaje.
 
-Actualmente solo ofrecemos un tipo de licencia, la licencia corporativa. Puede visitar el sitio web [https://www.dbrecover.com/](https://www.dbrecover.com/) para obtener información de compra.
+Actualmente solo ofrecemos un tipo de licencia, la licencia corporativa. Puede visitar el sitio web https://www.dbrecover.com/ para obtener información de compra.
 
 Una vez que el usuario obtiene la clave de licencia, puede registrarse por sí mismo en el software Register, el método de uso específico es el siguiente:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image3.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image3.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3d02c02-034f-453a-90a3-9b8dca24d7f1/image3.png
 
 En la barra de menú Ayuda => Registro, ingrese el NOMBRE DB y la clave según la información enviada a usted después de la compra y haga clic en el botón Registro. Una vez que se completa el registro, DBRECOVER detectará automáticamente la información de registro de la licencia cuando se reinicie en el futuro, no es necesario volver a registrarse.
 
 La información de registro exitosa se puede encontrar en Ayuda => Acerca de:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image4.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image4.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9680c8fa-8884-4293-a890-2fcc84053e9c/image4.png
 
 # **Introducción al uso de DBRECOVER basado en diferentes escenarios de recuperación de bases de datos Oracle**
 
@@ -225,11 +225,11 @@ Los pasos breves son los siguientes:
 8. Selecciona el SCHEMA correspondiente, haz clic con el botón derecho y selecciona la función EXPORTDDL, elige el tipo de objeto que deseas recuperar y haz clic en EXPORT.
 9. Basado en el archivo SQL DDL generado por EXPORTDDL, ejecuta manualmente en el SCHEMA objetivo de la base de datos objetivo.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image5.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image5.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ae55055-eebf-4d58-8e5a-dd4fc3dd9367/image5.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image6.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image6.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eec38e47-5991-4065-8d3d-ab0bfb3944e5/image6.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image7.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image7.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0864652-64f0-427e-8c9e-08700dfaf1f9/image7.png
 
 `// Inicia el programa de escucha (LISTENER), asegúrate de que el servicio de base de datos se haya registrado para escuchar.`
 
@@ -321,9 +321,9 @@ Inicia DBRECOVER y selecciona Herramientas => Asistente de recuperación
 
 Haz clic en Siguiente
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image8.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image8.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e5b64c3-3085-4b24-aa28-b63c41348553/image8.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image9.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image9.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44b425e1-4ccd-4fb4-a2db-02f06065cdbd/image9.png
 
 En el siguiente paso, necesitamos seleccionar el orden de los bytes ENDIAN correcto; Dado que los archivos de datos de ORACLE utilizan diferentes formatos de orden de bytes de Endian en diferentes plataformas de sistemas operativos, la lista de correspondencia entre el orden de bytes y la plataforma es la siguiente:
 
@@ -360,17 +360,17 @@ Aquí, como necesitamos recuperar archivos de base de datos Oracle en la platafo
 
 Haz clic en Siguiente
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image10.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image10.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/599ba757-bdd6-492d-9f3a-6886e2b4a0ce/image10.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image11.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image11.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c47654dd-a82e-4e1d-a5c3-e0c748343165/image11.png
 
 Haz clic en Choose Files, generalmente recomendamos que si la base de datos no es grande, entonces selecciona todos los archivos de datos de esa base de datos; si tu base de datos es grande y sabes en qué archivos de datos están tus tablas, entonces puedes seleccionar únicamente los archivos de datos del espacio de tabla SYSTEM (¡es necesario!) y los archivos de datos donde se encuentran los datos.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image12.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image12.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64b66d12-5922-4af4-af50-cfc5b7baf59f/image12.png
 
 Ten en cuenta que la interfaz Choose admite operaciones de teclado como Ctrl + A y Shift.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image13.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image13.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7eb57fe9-74e0-4c3a-babe-bfe64309659a/image13.png
 
 Nota: una vez que hayas agregado todos los archivos de datos, si no entiendes los otros parámetros en esta interfaz, déjalos todos por defecto, ¡no es necesario modificarlos!
 
@@ -396,33 +396,33 @@ En la fase Load, DBRECOVER leerá la información del diccionario de datos de OR
 
 Después de completar Load, aparece un árbol agrupado por usuarios de la base de datos en el lado izquierdo de la interfaz de DBRECOVER:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image14.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image14.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/876f2cbb-5e12-4c2f-b9f6-513e7388ffcf/image14.png
 
 Selecciona una tabla que deseas recuperar y haz doble clic para ver los datos:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image15.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image15.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68c21c4e-56ca-42fb-a489-b87e07817e8e/image15.png
 
 Sin haber comprado la licencia de software, podemos inspeccionar si DBRECOVER puede recuperar suficientes datos mediante la visualización de las tablas, la extracción de al menos diez mil filas de datos y la verificación del número de filas que se pueden recuperar.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image16.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image16.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abaed0f0-2f6e-4783-8b83-fa2d3f938b05/image16.png
 
 Después de seleccionar la tabla, haz clic con el botón derecho en UNLOAD, lo que exportará los datos de la tabla en formato de texto:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image17.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image17.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67b375c1-67fd-49f8-a46d-363717e7d114/image17.png
 
 Sin registrar la licencia de software, se pueden extraer un máximo de diez mil filas de datos de una sola tabla.
 
 Para las tablas que contienen más de diez mil filas de datos, puedes verificar aún más a través de la función de verificación del número de filas recuperables. Selecciona la tabla que deseas verificar, haz clic con el botón derecho en EXAMINE RECORDS COUNT:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image18.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image18.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a15ccf3-a206-483d-ad16-67b40e035ab0/image18.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image19.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image19.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea3cb9da-52a5-47fa-aedc-dbae32ae564c/image19.png
 
 Desde Oracle 10g, se introdujo la característica de recolección automática de estadísticas, y podemos utilizar esta característica para ver las estadísticas históricas de la tabla, que incluyen el número de filas. En el modo de diccionario, cada vez que ejecutamos operaciones de visualización, extracción, verificación, etc. en una tabla, alguna información de esa tabla se registrará en el registro de software log_dbrecover.txt. El archivo de registro se almacena en el directorio del software:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image20.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image20.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b18958ad-551b-4ab7-853d-0260bf0da6dd/image20.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image21.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image21.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97aecd61-4dee-4d9b-ace6-01a8fc54edc4/image21.png
 
 Información del registro:
 
@@ -452,11 +452,11 @@ Los usuarios pueden realizar la verificación anterior en cada tabla de datos im
 
 Después de completar la verificación anterior, comenzamos la transmisión de datos del puente de datos a nivel de usuario SCHEMA. Selecciona el nombre de usuario que deseas recuperar y haz clic con el botón derecho en Data Bridge.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image22.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image22.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b0d6849-0431-4ad8-af32-455649d8c989/image22.png
 
 En la interfaz de transferencia de datos a nivel SCHEMA, haz clic en el botón "+", para agregar la información de conexión de la base de datos de destino:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image23.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image23.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6d0a15f-29e4-4206-a45e-2a0a9c722288/image23.png
 
 Ingresa la información de conexión de la nueva base de datos que creaste anteriormente, aquí estamos utilizando el usuario PD.
 
@@ -464,21 +464,21 @@ Nota: El software DBRECOVER solo transferirá datos al usuario especificado en l
 
 Haz clic en TEST para probar la disponibilidad de la conexión de la base de datos de destino:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image24.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image24.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/348f4aa3-aa04-41b8-afcb-2284d7206094/image24.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image25.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image25.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed8d6bae-dca3-44ee-9995-c55daf85bb09/image25.png
 
 Si es exitoso, haz clic en SAVE para guardar:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image26.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image26.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f1d6652-2cad-4a55-a4c3-dd3a187e7600/image26.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image27.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image27.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a62fceeb-b899-498d-a872-fcaef2aaa986/image27.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image28.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image28.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5841fbf-d70c-4cd3-9dbc-9b05d733f5e3/image28.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image29.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image29.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66d8f515-3196-4639-a0b8-025ad66ae313/image29.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image30.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image30.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/886511a5-f850-4b37-8fc6-61733a03ec30/image30.png
 
 Comprobar datos:
 
@@ -506,9 +506,9 @@ Nota: La transferencia de datos anterior asume por defecto el modo de tabla anch
 
 Si no deseas utilizar el modo de tabla ancha, puedes hacer clic en la barra de menú Options => Preferences.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image31.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image31.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/827cb3ef-537b-40e6-810f-371cad603055/image31.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image32.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image32.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6eb5249b-7c59-413e-876d-365949691874/image32.png
 
 Si seleccionas "Sí" en el menú desplegable "Create table in restricted mode", no se utilizará el modo de tabla ancha para crear la tabla de datos.
 
@@ -520,9 +520,9 @@ Para la recuperación de objetos como índices, restricciones, vistas, triggers,
 
 Selecciona el SCHEMA que deseas recuperar, haz clic con el botón derecho y selecciona la función EXPORT DDL:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image33.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image33.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a9212f7-0314-4dec-a714-bf3925f9548c/image33.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image34.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image34.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df620830-ee68-4a79-b244-511b4f792e35/image34.png
 
 Los tipos de objetos que se pueden recuperar incluyen:
 
@@ -538,13 +538,13 @@ Los tipos de objetos que se pueden recuperar incluyen:
 
 Aquí también debes seleccionar la información de conexión a la base de datos que ingresaste anteriormente, para el procesamiento temporal de la información DDL.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image35.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image35.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee802935-e4c5-4447-9e19-accfab8f63d7/image35.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image36.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image36.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5f8389-88c2-42fb-99cf-936bad1a00a3/image36.png
 
 Una ventana emergente te mostrará la ruta del archivo DDL SQL, mira este archivo:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image37.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image37.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1588b8c-0ff8-46bb-8933-d517d6184385/image37.png
 
 Nota: ¡La función EXPORTDDL solo se puede usar normalmente después de registrar una licencia comercial válida (LICENSE KEY)!
 
@@ -556,9 +556,9 @@ Si el usuario tiene archivos dmp antiguos de exp o expdp, se recomienda importar
 
 Si te encuentras con situaciones como la falta de respuesta del programa, bloqueos o errores durante el proceso de recuperación real, puedes usar la función LOAD FROM EXIST DICTS para cargar directamente el estado de recuperación anterior después de reiniciar DBRECOVER.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image38.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image38.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04626e23-3757-44ec-9657-eb70e4fa91aa/image38.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image39.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image39.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b31a973-3818-4da8-a0f0-5532140e551c/image39.png
 
 Los estados de recuperación se ordenan en función de la hora, y puedes seleccionar el apropiado y hacer clic en el botón LOAD para cargarlo. Tanto el modo de diccionario (DICTIONARY-MODE) como el modo no diccionario (NON-DICTIONARY MODE) pueden utilizar esta función de carga rápida para evitar operaciones repetidas.
 
@@ -570,9 +570,9 @@ El administrador del sistema SA de la empresa D eliminó por error el archivo de
 
 En este escenario, después de iniciar DBRECOVER, debes seleccionar el modo "Non-Dictionary mode" (modo no diccionario) en el Recovery Wizard:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image40.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image40.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94b719d9-1f25-4be1-a30f-535871362118/image40.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image41.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image41.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1cd5a945-cec4-4226-8458-7a3ff274570c/image41.png
 
 A continuación, debes seleccionar el conjunto de caracteres correcto, de lo contrario, los datos futuros aparecerán codificados.
 
@@ -580,25 +580,25 @@ En el modo NoN-dictionary, el usuario debe especificar el conjunto de caracteres
 
 Al igual que en la demostración del escenario 1, introduce todos los archivos de datos disponibles para el usuario (sin incluir los archivos temporales) y configura correctamente el tamaño de bloque (Block Size) y el OFFSET:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image42.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image42.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5966b9dc-2d5b-4ac3-b6ce-7c06fcca0f27/image42.png
 
 A continuación, haz clic en SCAN. La función SCAN es para escanear toda la información de datos en todos los archivos de datos.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image43.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image43.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/182e39fa-c72e-4dd2-a6e7-165937f6ef32/image43.png
 
 Luego selecciona el nodo de la base de datos en el diagrama de árbol de la izquierda y haz clic derecho en SCAN EXTENT. Solo usa el modo SCAN TABLE FROM SEGMENTS cuando puedas confirmar que todos los archivos de datos (excepto SYSTEM01.DBF) están disponibles. La ventaja de este modo es que es un poco más rápido, pero su nivel de recuperación es inferior al modo SCAN EXTENT en caso de que los archivos de datos estén incompletos o dañados.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image44.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image44.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/691c4adf-248e-49ae-b507-8b3af9295d6f/image44.png
 
 Después de completar Scan Tables From Extents, puedes abrir el diagrama de árbol en el lado izquierdo de la interfaz principal:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image45.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image45.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87e94e6a-e52b-4b56-86b3-08a95ba6bac1/image45.png
 
 Cada nodo en el diagrama de árbol representa un fragmento de datos de una tabla heap normal o una partición, y su nombre es obj + el DATA OBJECT ID registrado en el segmento de datos.
 
 Selecciona un nodo y observa la barra lateral derecha de la interfaz principal:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image46.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image46.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cf1394f2-1571-4259-87b2-f070b5d54f92/image46.png
 
 Análisis de tipos de campos
 
@@ -615,11 +615,11 @@ Debido a la pérdida del espacio de tablas SYSTEM, en el modo Non-Dictionary fal
 
 Análisis de datos de muestra (Sample Data Analysis):
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image47.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image47.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/677d4677-64be-4d80-83f1-607f396b1123/image47.png
 
 Esta sección analiza 10 datos basándose en los resultados del análisis de los tipos de campos, y muestra los resultados del análisis. Los datos de muestra pueden ayudar al usuario a comprender la situación actual de los datos almacenados en este segmento de datos. Si hay menos de 10 registros en el segmento de datos, se mostrarán todos los registros.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image48.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image48.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/830251b7-7802-453b-9b65-036c737ba375/image48.png
 
 TRATAR DE ANALIZAR el tipo de columna desconocida:
 
@@ -635,7 +635,7 @@ En este modo "Non-Dictionary Mode" (modo no diccionario), también se pueden uti
 
 Si el usuario conoce la estructura de la tabla en el momento del diseño (también puede provenir de la documentación del proveedor de la aplicación), entonces puede seleccionar el tipo correcto de Column Type para que los datos de la tabla se puedan enlazar de manera exitosa a la base de datos objetivo.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image49.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image49.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2469350-1e47-4922-b53f-49e897836ea5/image49.png
 
 ## 
 
@@ -649,7 +649,7 @@ Debido a que la cabecera del archivo de datos está dañada, necesitamos observa
 
 Aquí está la lista de archivos de datos:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image50.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image50.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b31d592-c677-47b3-b74c-da1755c21edd/image50.png
 
 `O1_MF_APP01_L782YY4Y_.DBF.eking`
 
@@ -683,29 +683,29 @@ Ten en cuenta que TEMP, UNDOTBS1, SYSAUX no tienen nada que ver con nuestra tare
 
 Primero iniciamos DBRECOVER, usando el modo de diccionario DICT-MODE:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image51.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image51.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2b892a4-54cd-4a2c-b67b-b1e87d6d01d3/image51.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image52.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image52.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb81d05b-602a-4854-9528-0a1f4d51e8c5/image52.png
 
 Elegimos DB VERSION según la situación real. Para instancias con versiones superiores a 12c, como 18c, 19c, etc., elige 12.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image53.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image53.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/99061e3f-1967-4eb2-81f7-6422d83e9604/image53.png
 
 Solo agregamos SYSTEM01.DBF, y especificamos su TS# = 0 rFILE# = 1 (ten en cuenta que esto es fijo).
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image54.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image54.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1853216-cf2a-4ba9-ba88-56abd2391192/image54.png
 
 La opción "SCAN BASE TABLES" marcada anteriormente puede manejar de manera más efectiva la situación de daño.
 
 Después de hacer clic en el botón LOAD, DBRECOVER escaneará todo SYSTEM01.DBF y encontrará los datos de la tabla de base del diccionario de datos en él.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image55.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image55.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44551f90-ac63-4557-9297-a880de6465ad/image55.png
 
 Abrimos el nodo del usuario SYS y buscamos las 2 tablas base TS$ y FILE$:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image56.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image56.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5bbeb33-8259-4203-adc2-9cbaf0d00316/image56.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image57.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image57.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdb0aaff-4b2e-4075-a353-2fff979fc6e1/image57.png
 
 La tabla TS$ almacena la información del espacio de tablas, la columna TS# es el número del espacio de tablas, de la cual se puede obtener la siguiente información:
 
@@ -725,7 +725,7 @@ Es decir, el espacio de tablas APP01 tiene TS# = 7, mientras que el espacio de t
 
 La tabla FILE$ almacena la información del archivo de datos:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image58.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image58.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c2846fc-ddfc-427b-b7b1-051fb161f76e/image58.png
 
 Lo que necesitamos son las columnas TS# y RELFILE#.
 
@@ -809,23 +809,23 @@ A través de la suposición anterior, obtenemos la tabla de información complet
 
 Reabrimos DBRECOVER y entramos en el modo de diccionario:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image59.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image59.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cb47857-c244-46ef-8a6e-a3573e9eef61/image59.png
 
 Aún necesitamos seleccionar la versión de la base de datos DB VERSION.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image60.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image60.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e25e496-37c6-48c8-b439-3b2f8e701172/image60.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image61.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image61.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/04356a40-91ee-411f-b48f-533412340817/image61.png
 
 Incluye todos los archivos de datos necesarios (todos los archivos que puedan contener datos de usuario, UNDOTBS1, TEMP, SYSAUX no necesitan ser incluidos), asegúrate de no olvidar SYSTEM01.DBF (debe ser incluido).
 
 De acuerdo con la tabla que organizamos anteriormente, completa la información de TS# y RFILE# aquí:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image62.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image62.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23480910-9ad4-4a57-b13c-dd4a3998daee/image62.png
 
 Si completa correctamente la información relevante y el grado de daño de cifrado no es alto, entonces puedes leer directamente los datos:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image63.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image63.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4680fbf7-a95e-428d-9476-0a59b09bf2c5/image63.png
 
 Debido a las diferentes características del ransomware, es posible que se necesiten más pasos en la operación real. Te invitamos a comunicarte con nosotros por correo electrónico si tienes problemas: **[service@parnassusdata.com](mailto:service@parnassusdata.com)**
 
@@ -896,19 +896,19 @@ Antes de comenzar la recuperación, primero configuramos el espacio de tablas en
 
 Iniciamos DBRECOVER, seleccionamos el modo de diccionario e incluimos todos los archivos de datos disponibles:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image64.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image64.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a27e58ab-1654-476d-8e1b-6170323a507f/image64.png
 
 Al revisar los datos de la tabla de ejemplo, podemos ver que también están vacíos. Selecciona la tabla, haz clic con el botón derecho y selecciona Unload Deleted Data.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image65.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image65.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/19b70cb5-8a02-44aa-830f-08bfa8fc64e6/image65.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image66.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image66.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1dd8ab7c-f6ea-488f-ada7-5ad2a9f23c00/image66.png
 
 En ausencia de una licencia válida de la edición empresarial, la función UNLOAD DELETED DATA está limitada a 100 filas de datos por tabla.
 
 Los datos extraídos se almacenan en la ruta mostrada en la ventana emergente:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image67.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image67.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1d06f1e-2acd-4692-854c-628e3fec6616/image67.png
 
 El usuario debe revisar los resultados de la recuperación y utilizar herramientas como SQLLDR o SQLDEVELOPER para insertar los datos de texto en la base de datos.
 
@@ -958,25 +958,25 @@ Dado que todos los archivos de la base de datos en este entorno están disponibl
 
 En este escenario de TRUNCATE no se utilizó el almacenamiento ASM, por lo que solo es necesario seleccionar el "Modo de diccionario" (《Dictionary Mode》):
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image68.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image68.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31960c67-070b-41ca-a736-faab3bc80fcb/image68.png
 
 En la mayoría de los casos, no es necesario modificar ningún parámetro:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image69.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image69.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5723eaf1-abb8-4b12-9013-4a295298f61e/image69.png
 
 Agrega todos los archivos de datos disponibles:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image70.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image70.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc5eec96-7e03-4ce4-a6f1-2c15d3ae3520/image70.png
 
 Al abrir USERS, puedes ver varios nombres de usuario. Por ejemplo, si el usuario necesita recuperar una tabla bajo el esquema PD, abre PD y haz doble clic en el nombre de la tabla:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image71.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image71.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c9860ae5-181f-4d17-bc2d-109c2b14f2ae/image71.png
 
 Dado que esta tabla ya ha sido truncada, hacer doble clic no mostrará datos. En este caso, haz clic derecho en la tabla y selecciona "Unload truncated data":
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image72.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image72.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/681c1073-bad9-4b2c-b811-1e473f28312a/image72.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image73.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image73.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/079c6f3c-c0b0-4078-a8ef-746a6ae1176b/image73.png
 
 DBRECOVER intentará escanear el espacio de tablas donde se encuentra la tabla y extraer los datos que ya han sido truncados: Como se muestra en la imagen anterior, DBRECOVER extrajo un total de 655360 registros completos de la tabla que había sido truncada y los almacenó en la ruta especificada en la notificación.
 
@@ -1030,21 +1030,21 @@ Por lo tanto, aquí primero creamos un nuevo espacio de tablas para almacenar la
 
 ---
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image74.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image74.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2b649f09-ae69-4acd-898f-7eb5ea5673cd/image74.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image75.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image75.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/73c3a13a-90ac-47ac-b5c5-90255c3fc404/image75.png
 
 Crea la información de inicio de sesión necesaria, ten en cuenta que el usuario de la base de datos debe tener los permisos necesarios (se recomienda otorgar el rol de DBA).
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image76.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image76.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75903222-0752-44b6-b58f-a611aadd496d/image76.png
 
 Después de que la prueba sea exitosa, haz clic en SAVE para guardar.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image77.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image77.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e38a305c-a698-4a1b-af07-9b820087c8b6/image77.png
 
 Elige el espacio de tablas para almacenar la tabla de datos que se recuperará de TRUNCATE.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image78.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image78.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0cde043-dc83-4b66-816b-ff64733fbfe5/image78.png
 
 Aquí, debemos seleccionar "if need to scan data" y proporcionar el DATA_OBJECT_ID original que obtuvimos anteriormente. De esta manera, DBRECOVER escaneará específicamente los datos correspondientes a ese ID para nosotros.
 
@@ -1057,7 +1057,7 @@ Al mismo tiempo, debemos seleccionar "if need to remap table" e ingresar un nuev
 
 Después de completar los pasos anteriores, haz clic en el botón Data Bridge.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image79.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image79.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aec30f90-e951-4625-b3e1-cc92e87fae92/image79.png
 
 Confirma el número de filas a recuperar:
 
@@ -1182,23 +1182,23 @@ Hagamos una demostración práctica:
 
 Iniciamos DBRECOVER en modo de diccionario (DICTIONARY-MODE). Aquí solo necesitamos agregar SYSTEM01.DBF y el espacio de tablas USERS donde se encuentra la tabla:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image80.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image80.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0708ff87-efe0-4fcc-ab24-750792fd0b6a/image80.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image81.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image81.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/70df7252-4666-4190-96e9-582ca93be2e8/image81.png
 
 Una vez que se completa la carga, podemos ver que la tabla que queremos recuperar no existe bajo el esquema PD. Esto es normal.
 
 Selecciona el nodo de la base de datos y haz clic con el botón derecho en SCAN Data.
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image82.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image82.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3915b25-ccfa-4447-b049-21bf163edb59/image82.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image83.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image83.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89e3dc3c-7355-4420-b05b-412e2bdd6430/image83.png
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image84.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image84.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53013ea0-f92e-49a8-b652-424905102f89/image84.png
 
 Luego aparecerá un nodo EXTENTS, busca el nodo OBJ76116:
 
-![Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image85.png](Manual%20de%20usuario%20de%20dbrecover%20for%20oracle%20bb43ca104735411fa827d12a357c147b/image85.png)
+!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81a0e952-ce17-4f33-803d-d791e9bab7bb/image85.png
 
 Luego podemos usar la característica Data Bridge para insertarla de nuevo en la base de datos de origen.
 
